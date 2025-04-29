@@ -14,6 +14,11 @@ The game consists of the following stages:
 8. Keep score
 
 ---
+# Pong Game
+
+![Pong Game Screenshot](1.png)
+
+A Python-based Pong game built with the Turtle module, showcasing object-oriented programming. Features include two-player paddle controls, dynamic ball movement with speed increases, collision detection, and real-time scorekeeping. Simple to run and fun to play!
 
 ## Implementation Details
 
